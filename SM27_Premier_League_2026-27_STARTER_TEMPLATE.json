@@ -1,0 +1,129 @@
+{
+  "_notice": "UNVERIFIED STARTER TEMPLATE for Soccer Manager 2027. Club IDs 1-20 are copied from a public test-pack example and are NOT confirmed game database IDs. Do not import until IDs are matched to your in-game database. PlayerData is empty; no player names/photos are included yet.",
+  "PlayerData": [],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "Arsenal",
+      "ShortName": "ARS",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
+    },
+    {
+      "ID": 2,
+      "Name": "Aston Villa",
+      "ShortName": "AVL",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/9/9a/Aston_Villa_FC_new_crest.svg"
+    },
+    {
+      "ID": 3,
+      "Name": "AFC Bournemouth",
+      "ShortName": "BOU",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/e5/AFC_Bournemouth_%282013%29.svg"
+    },
+    {
+      "ID": 4,
+      "Name": "Brentford",
+      "ShortName": "BRE",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/2/2a/Brentford_FC_crest.svg"
+    },
+    {
+      "ID": 5,
+      "Name": "Brighton & Hove Albion",
+      "ShortName": "BHA",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/2/2a/Brighton_%26_Hove_Albion_logo.svg"
+    },
+    {
+      "ID": 6,
+      "Name": "Chelsea",
+      "ShortName": "CHE",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg"
+    },
+    {
+      "ID": 7,
+      "Name": "Coventry City",
+      "ShortName": "COV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8,
+      "Name": "Crystal Palace",
+      "ShortName": "CRY",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/a/a2/Crystal_Palace_FC_logo_%282022%29.svg"
+    },
+    {
+      "ID": 9,
+      "Name": "Everton",
+      "ShortName": "EVE",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg"
+    },
+    {
+      "ID": 10,
+      "Name": "Fulham",
+      "ShortName": "FUL",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%28crest%29.svg"
+    },
+    {
+      "ID": 11,
+      "Name": "Hull City",
+      "ShortName": "HUL",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/a/a1/Hull_City_AFC_logo.svg"
+    },
+    {
+      "ID": 12,
+      "Name": "Ipswich Town",
+      "ShortName": "IPS",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/4/43/Ipswich_Town.svg"
+    },
+    {
+      "ID": 13,
+      "Name": "Leeds United",
+      "ShortName": "LEE",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/5/54/Leeds_United_F.C._logo.svg"
+    },
+    {
+      "ID": 14,
+      "Name": "Liverpool",
+      "ShortName": "LIV",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg"
+    },
+    {
+      "ID": 15,
+      "Name": "Manchester City",
+      "ShortName": "MCI",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
+    },
+    {
+      "ID": 16,
+      "Name": "Manchester United",
+      "ShortName": "MUN",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+    },
+    {
+      "ID": 17,
+      "Name": "Newcastle United",
+      "ShortName": "NEW",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg"
+    },
+    {
+      "ID": 18,
+      "Name": "Nottingham Forest",
+      "ShortName": "NFO",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/4/4a/Nottingham_Forest_F.C._logo.svg"
+    },
+    {
+      "ID": 19,
+      "Name": "Sunderland",
+      "ShortName": "SUN",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/7/77/Sunderland_A.F.C._logo.svg"
+    },
+    {
+      "ID": 20,
+      "Name": "Tottenham Hotspur",
+      "ShortName": "TOT",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg"
+    }
+  ],
+  "LeagueData": [],
+  "CupData": [],
+  "StadiumData": []
+}
